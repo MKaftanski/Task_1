@@ -515,8 +515,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9c0172e651ffe7b4d95228af6ba79edc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Mainmenu: {fileID: 0}
-  SettingsMenu: {fileID: 0}
+  Mainmenu: {fileID: 1756263541}
+  SettingsMenu: {fileID: 214551895}
 --- !u!1 &524527768
 GameObject:
   m_ObjectHideFlags: 0
